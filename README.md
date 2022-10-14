@@ -40,7 +40,7 @@ smallest sum.  A starter file has been provided for you in
 You will need to choose a value for your Lagrange parameter and number of QPU
 reads.  The excel file included in this repository can help you to select a large enough parameter.
 
-## Instructions
+### Instructions
 
 To write your program, please complete the following in `ex2_bqm.py`:
 
