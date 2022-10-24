@@ -21,12 +21,16 @@ def get_cqm(S):
     """Returns a dictionary representing a QUBO.
 
     Args:
-        S(list of integers): the value for each box
+        S (list of integers): the value for each box
     """
 
     cqm = ConstrainedQuadraticModel('BINARY')
 
-    # Add CQM construction here
+    # Define binary variables
+
+    # Set CQM objective
+
+    # Add CQM constraint
     
     return cqm
 
