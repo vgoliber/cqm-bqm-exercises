@@ -24,7 +24,7 @@ def get_cqm(S):
         S (list of integers): the value for each box
     """
 
-    cqm = ConstrainedQuadraticModel('BINARY')
+    cqm = ConstrainedQuadraticModel()
 
     # Define binary variables
 
