@@ -34,8 +34,7 @@ def run_on_hss(cqm, sampler):
     """Runs the CQM on the sampler provided.
 
     Args:
-        cqm (ConstrainedQuadraticModel): a CQM for the problem;
-            variable names should be 'box_17', 'box_21', and 'box_19'
+        cqm (ConstrainedQuadraticModel): a CQM for the problem
         sampler (dimod.Sampler): a hybrid solver
     """
 
