@@ -14,7 +14,7 @@
 
 ## ------- import packages -------
 from dwave.system import LeapHybridCQMSampler
-from dimod import ConstrainedQuadraticModel
+from dimod import ConstrainedQuadraticModel, Binary
 
 # TODO:  Add code here to define your BQM
 def get_cqm(S):
