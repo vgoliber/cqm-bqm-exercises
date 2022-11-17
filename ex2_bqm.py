@@ -14,7 +14,7 @@
 
 ## ------- import packages -------
 from dwave.system import DWaveSampler, EmbeddingComposite
-from dimod import BinaryQuadraticModel
+from dimod import BinaryQuadraticModel, Binary
 
 # TODO:  Add code here to define your BQM
 def get_bqm(S):
