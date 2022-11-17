@@ -42,7 +42,7 @@ def run_on_hss(cqm, sampler):
         sampler (dimod.Sampler): a hybrid solver
     """
 
-    sample_set = sampler.sample(cqm, label='Training - Choosing Boxes')
+    sample_set = sampler.sample_cqm(cqm, label='Training - Choosing Boxes')
 
     return sample_set
 
