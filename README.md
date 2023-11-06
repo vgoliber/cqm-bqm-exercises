@@ -1,3 +1,7 @@
+[![Open in GitHub Codespaces](
+  https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
+  https://codespaces.new/vgoliber/cqm-bqm-exercises?quickstart=1)
+  
 # Choosing Boxes
 
 We're given three boxes with values 17, 21, and 19. We want to choose the pair of boxes with the smallest sum. In the next few exercises, we will solve this with different quadratic models and D-Wave solvers.
