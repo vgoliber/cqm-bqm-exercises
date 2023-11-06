@@ -1,6 +1,6 @@
 [![Open in GitHub Codespaces](
   https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
-  https://codespaces.new/vgoliber/cqm-bqm-exercises?quickstart=1)
+  https://codespaces.new/vgoliber/cqm-bqm-exercises/blob/live-workshop?quickstart=1)
   
 # Choosing Boxes
 
